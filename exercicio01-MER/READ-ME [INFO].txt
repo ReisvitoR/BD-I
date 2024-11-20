@@ -1,0 +1,20 @@
+-> a questão 12 (por algum motivo da plataforma está fora do enquadramento para salvar em pdf ou imprimir e qnt mais eu mexo pior fica, tive que tirar print, pode verificar a mesma no link)
+-> devido a plataforma ser bugada, talvez seja necessário aumentar e diminuir o tamanho do projeto 
+-> abreviações  qtd = quantidade || cod = código || num = numero || dt = data || cat = categoria 
+-> todas as questões estão disponíveis online tbm, basta acessar o link.
+links: 
+
+questão01 -> https://app.brmodeloweb.com/#!/publicview/673ba7d483fd59ac7af50cfa
+questão02 -> https://app.brmodeloweb.com/#!/publicview/673d2975e801ef28f39abf88
+questão03 -> https://app.brmodeloweb.com/#!/publicview/673d1924799ac1d1ff88f2ad
+questão04 -> https://app.brmodeloweb.com/#!/publicview/673d297be801ef28f39abf8f
+questão05 -> https://app.brmodeloweb.com/#!/publicview/673d2980e801ef28f39abf95
+questão06 -> https://app.brmodeloweb.com/#!/publicview/673d2986e801ef28f39abf9c
+questão07 -> https://app.brmodeloweb.com/#!/publicview/673d17c8799ac1d1ff88f207
+questão08 -> https://app.brmodeloweb.com/#!/publicview/673d1773799ac1d1ff88f1bf
+questão09 -> https://app.brmodeloweb.com/#!/publicview/673d298de801ef28f39abfa4
+questão10 -> https://app.brmodeloweb.com/#!/publicview/673d17a8799ac1d1ff88f1f2
+questão11 -> https://app.brmodeloweb.com/#!/publicview/673cdcae799ac1d1ff88dee6
+questão12 -> https://app.brmodeloweb.com/#!/publicview/673d1752799ac1d1ff88f19d
+questão13 -> https://app.brmodeloweb.com/#!/publicview/673d2999e801ef28f39abfb1
+
